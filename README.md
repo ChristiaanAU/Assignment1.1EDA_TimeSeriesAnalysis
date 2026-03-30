@@ -1,0 +1,15 @@
+###Time Series Analysis Project
+
+###Overview
+This project analyses the Total Fertility Rates and Total Live Births of Signapore from 1960 to 2024.
+
+For Research Questions and the Statistical Appendix, see the pdf. 
+
+In the Code, one can find the data cleaning, two time series models of the Total Fertility Rates (TFR) 
+and two models of the Total Live Births (TBR) and Forecasting from 2013 to 2024 using the data from 
+1960 to 2012. 
+
+###Methods Used
+- ETS model
+- ARIMA models
+- Residual Analysis
